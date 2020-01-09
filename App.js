@@ -1,5 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+//react creates a virtual Document Object Model (DOM), which is a Application Programming Interface (API) for HTML and XML docs. 
+
 
 class App extends React.Component {
     state = { }; 
