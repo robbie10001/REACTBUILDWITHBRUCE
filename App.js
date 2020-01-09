@@ -7,9 +7,6 @@ import ReactDOM from 'react-dom'
 class App extends React.Component {
 //a class is a type of function, but instead of using the keyword function to start it, we use the keyword class
 //and the properties are assigned inside a constructor() method. 
-
-
-
     state = { }; 
 //state is an object that can contain as many elements as we like.
 //we refer to the state object anywhere in the component by using the following syntax.
