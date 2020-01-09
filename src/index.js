@@ -33,6 +33,8 @@ const App = function() {
     );
 };
 
+//PUT ALL OF THESE COMPONENTS WITHIN A SINGLE COMPONENT. 
+
 ReactDOM.render(
     <App />,
     document.querySelector("#root")
